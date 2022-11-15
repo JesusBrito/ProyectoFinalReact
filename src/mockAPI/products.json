@@ -1,0 +1,65 @@
+[
+    {
+      "id": 1,
+      "name": "Carnaza pequeña",
+      "precio": 120,
+      "descripcion": "Carnaza de 15 cm para perro de raza mediana o pequeña",
+      "cantidad": 10,
+      "url": "https://www.petco.com.mx/medias/?context=bWFzdGVyfGltYWdlc3wzMzkwMjh8aW1hZ2UvanBlZ3xpbWFnZXMvaDkxL2g2NC85MzY5MTU4ODExNjc4LmpwZ3wxM2RhZDg2MjZlMzFkYmE0N2RmZDg1ZWM5NWQ2YmI4ZjA5NTk2MDhkNjc0YzBjYzNlZjVlNjgwYjJiMzUwZGNi",
+      "categoria": "carnaza"
+    },
+    {
+      "id": 2,
+      "name": "Carnaza grande",
+      "precio": 220,
+      "descripcion": "Carnaza de 30 cm para perro de raza grande",
+      "cantidad": 20,
+      "url": "https://www.petco.com.mx/medias/?context=bWFzdGVyfGltYWdlc3wzMzkwMjh8aW1hZ2UvanBlZ3xpbWFnZXMvaDkxL2g2NC85MzY5MTU4ODExNjc4LmpwZ3wxM2RhZDg2MjZlMzFkYmE0N2RmZDg1ZWM5NWQ2YmI4ZjA5NTk2MDhkNjc0YzBjYzNlZjVlNjgwYjJiMzUwZGNi",
+      "categoria": "carnaza"
+    },
+    {
+      "id": 3,
+      "name": "Kong mediano",
+      "precio": 360,
+      "descripcion": "Juguete de uso rudo para perro de raza pequeña o mediana",
+      "cantidad": 5,
+      "url": "https://m.media-amazon.com/images/I/41iYFcSXQ6L._AC_SX679_.jpg",
+      "categoria": "juguetes"
+    },
+    {
+      "id": 4,
+      "name": "Kong grande",
+      "precio": 530,
+      "descripcion": "Juguete de uso rudo para perro de raza grande",
+      "cantidad": 2,
+      "url": "https://www.petco.com.mx/medias/?context=bWFzdGVyfGltYWdlc3wzNzQxMDl8aW1hZ2UvanBlZ3xpbWFnZXMvaDEyL2g1ZC85MzIyNzk0MjU0MzY2LmpwZ3xjMWQzODE3YzA4ZjM4MDllYjEwOWRlY2ZlYTQ5YTRhOTg1YWU3YzBkMTdhYmMwZTcyYTNkOTRkZWVlNjUzYjhm",
+      "categoria": "juguetes"
+    },
+    {
+      "id": 5,
+      "name": "Pelota de goma",
+      "precio": 120,
+      "descripcion": "Pelota de goma de 10 cm",
+      "cantidad": 10,
+      "url": "https://m.media-amazon.com/images/I/71avugl7egS._AC_SX679_.jpg",
+      "categoria": "juguetes"
+    },
+    {
+      "id": 6,
+      "name": "Premios para limpiar dientes",
+      "precio": 230,
+      "descripcion": "Premios saludables para limpieza de dientes",
+      "cantidad": 5,
+      "url": "https://ss345.liverpool.com.mx/xl/1095967244.jpg",
+      "categoria": "comida"
+    },
+    {
+      "id": 7,
+      "name": "Costal de comida para adulto, razas pequeñas",
+      "precio": 850,
+      "descripcion": "Costal de comida de 8 kg",
+      "cantidad": 8,
+      "url": "https://res.cloudinary.com/walmart-labs/image/upload/w_960,dpr_auto,f_auto,q_auto:best/mg/gm/3pp/asr/e66ac06c-ea08-404f-b168-c02178dc8dfd.8be18eb8b2f781bfd6f4f7fe5262cbe1.jpeg?odnHeight=2000&odnWidth=2000&odnBg=ffffff",
+      "categoria": "comida"
+    }
+  ]
